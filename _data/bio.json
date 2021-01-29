@@ -1,57 +1,64 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "FATEMEH POURYAHYA",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/44.png",
+    "email": "fpour100@gmail.com",
+    "phone": "",
+    "website": "https://bamdadi.github.io",
+    "summary": "Hi! I am a master’s student with concentration in statistics in the mathematics and statistics department at University of Ottawa. My research interest revolve around mathematical, computational and data analytic problems with biological and biomedical implications. I am currently doing research in computational comparative genomics at David Sankoff’s lab. 
+Previously, I worked as an accounting expert in couple of industries, and I received my bachelor’s degree with concentration in applied mathematics in the mathematics, statistics, and computer science department at University of Tehran.
+.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Tehran",
+      "countryCode": "IR",
+      "region": "Tehran"
     },
     "profiles": [
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "https://github.com/FatemehPouryahya"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://www.linkedin.com/in/fatemeh-pouryahya-487720181/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "",
         "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Computational biology",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Machine learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Modeling",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "Algorithms",
       "keywords": [
       ]
     }
@@ -83,7 +90,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "Univ. of Ottawa, Canada",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
